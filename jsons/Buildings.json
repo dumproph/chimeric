@@ -289,4 +289,12 @@
         "requiredTech": "Education",
         "uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]", "Must be next to [Jungle]","All newly-trained [Land] units [in this city] receive the [Organic Remedies] promotion"]
     }
+    {
+        "name": "Heroic Epic",
+        "cost": 125,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": ["Only available if Barracks is constructed in all non-Puppeted cities", "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion","Cost increases by [30] per owned city" ],
+        "requiredTech": "Iron Working"
+       },
 ]

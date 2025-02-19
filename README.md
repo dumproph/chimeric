@@ -22,3 +22,7 @@ Includes the following mods and changes:
     - Icehouse Food bonus increased from 10% to 15%
     - Cannery Food bonus increased from 10% to 20%
     - Supermarket Cost increased from 400 to 500, provides +2 gold to Luxury tiles and +1 Gold to Cattle, Sheep, Fish, and Wheat tiles in the city it is built in.
+    - Organic Remedies is available for all Land units in cities with an Apothecary.
+
+- Resourceplus | 
+    - 
