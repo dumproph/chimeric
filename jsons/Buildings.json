@@ -288,7 +288,7 @@
         "maintenance": 2,
         "requiredTech": "Education",
         "uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]", "Must be next to [Jungle]","All newly-trained [Land] units [in this city] receive the [Organic Remedies] promotion"]
-    }
+    },
     {
         "name": "Heroic Epic",
         "cost": 125,
@@ -296,5 +296,14 @@
         "isNationalWonder": true,
         "uniques": ["Only available if Barracks is constructed in all non-Puppeted cities", "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion","Cost increases by [30] per owned city" ],
         "requiredTech": "Iron Working"
-       },
+     },
+    {
+        "name": "Alhambra",
+        "cost": 400,
+        "culture": 1,
+        "percentStatBonus": {"culture": 20},
+        "isWonder": true,
+        "uniques": ["All newly-trained [relevant] units [in all cities] receive the [Drill I] promotion", "Gain a free [Castle] [in this city]"],
+        "requiredTech": "Chivalry"
+     }
 ]
