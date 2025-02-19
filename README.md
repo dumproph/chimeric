@@ -17,8 +17,8 @@ Includes the following mods and changes:
     - Powder Mills provide +1 Production and Gold to coal tiles in cities they're built in.
     - Sugar Refineries provide +2 Gold to Sugar tiles but cost was increased from 250 to 300.
     - Seaside Resorts and Spa Resorts have been moved from Sailing to Ecology, provide 5 Happiness and Gold, requires no Maintenance, and have increased in cost from 100 to 500. Spa resorts require the city to be next to a Coast or Mountain instead of both.
-    - Golf Resorts provide +3 Happiness instead of +2, +3 Gold, do not require Maintenance, and only need to be built in cities next to either Plains or Grasslands instead of both.
-    - Mountain Resorts provide +4 Gold and do not require Maintenace.
+    - Golf Resorts provide +3 Happiness instead of +2 and +3 gold and does not require Maintenance.
+    - Mountain Resorts provide +4 Gold and does not require Maintenace.
     - Icehouse Food bonus increased from 10% to 15%
     - Cannery Food bonus increased from 10% to 20%
     - Supermarket Cost increased from 400 to 500, provides +2 gold to Luxury tiles and +1 Gold to Cattle, Sheep, Fish, and Wheat tiles in the city it is built in.
